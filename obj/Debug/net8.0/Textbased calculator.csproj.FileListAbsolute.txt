@@ -1,0 +1,14 @@
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.AssemblyInfoInputs.cache
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.AssemblyInfo.cs
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.csproj.CoreCompileInputs.cache
+C:\Users\emil_\source\repos\Textbased calculator\bin\Debug\net8.0\Textbased calculator.exe
+C:\Users\emil_\source\repos\Textbased calculator\bin\Debug\net8.0\Textbased calculator.deps.json
+C:\Users\emil_\source\repos\Textbased calculator\bin\Debug\net8.0\Textbased calculator.runtimeconfig.json
+C:\Users\emil_\source\repos\Textbased calculator\bin\Debug\net8.0\Textbased calculator.dll
+C:\Users\emil_\source\repos\Textbased calculator\bin\Debug\net8.0\Textbased calculator.pdb
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.dll
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\refint\Textbased calculator.dll
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.pdb
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\Textbased calculator.genruntimeconfig.cache
+C:\Users\emil_\source\repos\Textbased calculator\obj\Debug\net8.0\ref\Textbased calculator.dll
